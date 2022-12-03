@@ -12,7 +12,7 @@
     <artifactId>lesson9</artifactId>
 
     <name>lesson11</name>
-   <url>http://www.mjc.com</url>
+    <url>http://www.mjc.com</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
